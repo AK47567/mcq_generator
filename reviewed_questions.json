@@ -1,0 +1,224 @@
+{
+  "reviewed_mcqs": [
+    {
+      "question": "Which law states that an object at rest will remain at rest, and an object in motion will stay in motion with the same speed and in the same direction, unless acted upon by an external force?",
+      "options": [
+        "Newton's First Law of Motion",
+        "Newton's Second Law of Motion",
+        "Newton's Third Law of Motion",
+        "Law of Universal Gravitation"
+      ],
+      "answer": "Newton's First Law of Motion",
+      "revised": true
+    },
+    {
+      "question": "The acceleration of an object is directly proportional to the net force acting on it and inversely proportional to its mass.",
+      "options": [
+        "Newton's First Law",
+        "Newton's Second Law",
+        "Newton's Third Law",
+        "Law of Gravity"
+      ],
+      "answer": "Newton's Second Law",
+      "revised": false
+    },
+    {
+      "question": "Which of Newton's laws states that for every action, there is an equal and opposite reaction?",
+      "options": [
+        "Newton's First Law",
+        "Newton's Second Law",
+        "Newton's Third Law",
+        "Law of Universal Gravitation"
+      ],
+      "answer": "Newton's Third Law",
+      "revised": true
+    },
+    {
+      "question": "What is the SI unit of force?",
+      "options": [
+        "Newton",
+        "Joule",
+        "Pascal",
+        "Watt"
+      ],
+      "answer": "Newton",
+      "revised": false
+    },
+    {
+      "question": "Which law describes the relationship between force, mass and acceleration?",
+      "options": [
+        "Newton's First Law",
+        "Newton's Second Law",
+        "Newton's Third Law",
+        "Newton's Fourth Law"
+      ],
+      "answer": "Newton's Second Law",
+      "revised": false
+    },
+    {
+      "question": "An object will not change its motion unless a force acts on it.",
+      "options": [
+        "Newton's First Law",
+        "Newton's Second Law",
+        "Newton's Third Law",
+        "Law of Conservation of Energy"
+      ],
+      "answer": "Newton's First Law",
+      "revised": false
+    },
+    {
+      "question": "What is the SI unit of force?",
+      "options": [
+        "Newton",
+        "Joule",
+        "Pascal",
+        "Watt"
+      ],
+      "answer": "Newton",
+      "revised": true
+    },
+    {
+      "question": "Which physical law states that the force acting on an object is equal to its mass multiplied by its acceleration (F=ma)?",
+      "options": [
+        "Newton's First Law",
+        "Newton's Second Law",
+        "Newton's Third Law",
+        "Law of Universal Gravitation"
+      ],
+      "answer": "Newton's Second Law",
+      "revised": true
+    },
+    {
+      "question": "Which law state that every action have equal and opposite reaction?",
+      "options": [
+        "First law",
+        "Second law",
+        "Third law",
+        "Law of inertia"
+      ],
+      "answer": "Third law",
+      "revised": false
+    },
+    {
+      "question": "Who formulated the three laws of motion?",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Galileo Galilei",
+        "Nikola Tesla"
+      ],
+      "answer": "Isaac Newton",
+      "revised": false
+    },
+    {
+      "question": "The tendency of an object to resist a change in motion is called?",
+      "options": [
+        "Inertia",
+        "Force",
+        "Momentum",
+        "Velocity"
+      ],
+      "answer": "Inertia",
+      "revised": false
+    },
+    {
+      "question": "Which of the following is not a Newton's law of motion?",
+      "options": [
+        "Law of Inertia",
+        "Law of Acceleration",
+        "Law of Reaction",
+        "Law of Gravitation"
+      ],
+      "answer": "Law of Gravitation",
+      "revised": false
+    },
+    {
+      "question": "A force can make an object move, stop or change direction.",
+      "options": [
+        "True",
+        "False",
+        "Sometimes",
+        "Never"
+      ],
+      "answer": "True",
+      "revised": false
+    },
+    {
+      "question": "The mass of an object is measured in?",
+      "options": [
+        "Kilogram",
+        "Newton",
+        "Joule",
+        "Pascal"
+      ],
+      "answer": "Kilogram",
+      "revised": false
+    },
+    {
+      "question": "Which law is also known as the law of inertia?",
+      "options": [
+        "Newton's First Law",
+        "Newton's Second Law",
+        "Newton's Third Law",
+        "Law of Gravity"
+      ],
+      "answer": "Newton's First Law",
+      "revised": false
+    },
+    {
+      "question": "Force is measured in?",
+      "options": [
+        "Newton",
+        "Joule",
+        "Pascal",
+        "Watt"
+      ],
+      "answer": "Newton",
+      "revised": false
+    },
+    {
+      "question": "If the net force on an object is zero, the object will?",
+      "options": [
+        "Remain at rest",
+        "Move at constant velocity",
+        "Accelerate",
+        "Both A and B"
+      ],
+      "answer": "Both A and B",
+      "revised": false
+    },
+    {
+      "question": "Which law explains why passengers lurch forward in a bus when it stops suddenly?",
+      "options": [
+        "Newton's First Law",
+        "Newton's Second Law",
+        "Newton's Third Law",
+        "Law of Gravity"
+      ],
+      "answer": "Newton's First Law",
+      "revised": false
+    },
+    {
+      "question": "The rate of change of momentum is equal to?",
+      "options": [
+        "Force",
+        "Mass",
+        "Velocity",
+        "Acceleration"
+      ],
+      "answer": "Force",
+      "revised": false
+    },
+    {
+      "question": "The SI unit of mass is?",
+      "options": [
+        "Kilogram",
+        "Newton",
+        "Joule",
+        "Pascal"
+      ],
+      "answer": "Kilogram",
+      "revised": false
+    }
+  ]
+}
