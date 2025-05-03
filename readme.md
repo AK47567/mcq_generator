@@ -8,7 +8,7 @@ This repository contains solutions for the Python + AI + API Integration - Candi
 
 ### 1. Clone the Repository
 
-git clone <your-repo-url>
+git clone https://github.com/AK47567/mcq_generator.git
 cd <your-repo-directory>
 
 
