@@ -8,7 +8,7 @@ import json
 import time
 
 # Configure Gemini API key
-genai.configure(api_key="AIzaSyCHIww64bVyX04blLPRFjH2ILp40-L3kv4")  # <-- Replace with your key
+genai.configure(api_key="<Googel Gemini API Key>")  
 
 MODEL_NAME = "models/gemini-2.5-pro-exp-03-25"  # Use a supported model
 
